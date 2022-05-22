@@ -236,4 +236,4 @@ All the above options work well together.
 ### Authors &copy;
 
 - Egbo David
-- Onyinyechi Ibezim
+- Akinbobola Akingbeja
